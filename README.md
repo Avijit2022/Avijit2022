@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Avijit2022
+- 🌱 I’m currently learning React and AWS services
+- 📫 You can reach me : parida.avijit@principal.com
